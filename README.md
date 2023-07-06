@@ -6,12 +6,6 @@
   <a href="https://open.spotify.com/user/wemf6k4ly636zp8hywpraydfj?si=31d32039a7714b2a" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
   <a href = "mailto:gabriellaperniconi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-
-<span style= "display: flex; flex-direction: row;">
-  <a href="https://github.com/gabriella-roman">
-  <img height="165px"   align="center" src="https://github-readme-stats.vercel.app/api?username=gabriella-roman&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="165px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriella-roman&layout=compact&langs_count=7&theme=dracula" />
- </span>
     
 ## Linguagens aprendidas!
 <div style="display: inline_block">
@@ -20,6 +14,12 @@
   <img align="center" alt="Gabriella-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gabriella-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabriella-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+</div><br>
+
+<span style= "display: flex; flex-direction: row;">
+  <a href="https://github.com/gabriella-roman">
+  <img height="165px"   align="center" src="https://github-readme-stats.vercel.app/api?username=gabriella-roman&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="165px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriella-roman&layout=compact&langs_count=7&theme=dracula" />
+ </span>
 
 
