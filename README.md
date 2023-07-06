@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=pink&pause=1000&width=435&lines=Olá%2C+meu+nome+é+Gabriella!)](https://git.io/typing-svg)
 
 <span style= "display: flex; flex-direction: row;">
-<a href="https://github.com/LeehXD">
+<a href="https://github.com/gabriella-roman">
   <img height="165px"   align="center" src="https://github-readme-stats.vercel.app/api?username=gabriella-roman&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="165px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriella-roman&layout=compact&langs_count=7&theme=dracula" />
  </span>
