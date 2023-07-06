@@ -27,7 +27,7 @@
   <img height="165px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriella-roman&layout=compact&langs_count=7&theme=dracula" />
  </span>
 
-  ## LINGUAGENS APRENDIDAS!
+  ## LINGUAGENS APRENDIDAS🤓
 <div style="display: inline_block">
   <img align="center" alt="Gabriella-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
   <img align="center" alt="Gabriella-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
