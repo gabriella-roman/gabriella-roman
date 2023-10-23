@@ -6,7 +6,7 @@
    <div style="display: flex" align="center"> 
       
    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&color=9a5833&pause=1000&width=435&lines=Olá%2C+sou+a+Gabriella!)](https://git.io/typing-svg)<br>
-   <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/d6827a58d3f776053743753a92c5c30c.gif" width="240" height="240" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>    
+   <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/30a443e50210dc609372a2e953a20bfc.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>    
    
    ## REDES SOCIAIS 🐻
 
