@@ -5,7 +5,6 @@
 <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/30a443e50210dc609372a2e953a20bfc.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>    
    
    ## REDES SOCIAIS 🐻
-   <a href="https://instagram.com/g4broman" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href = "mailto:gabriellaperniconi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/gabriella-perniconi-90574b282/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br>
    </div><br>
